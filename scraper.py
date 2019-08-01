@@ -12,3 +12,4 @@ def get_data(url):
     process.crawl(AmazonWishlistSpider, url, scraped_data)
     process.start()
     return scraped_data
+

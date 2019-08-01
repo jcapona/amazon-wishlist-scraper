@@ -1,4 +1,4 @@
-# Scraper Factory
+# Amazon Wishlist Scraper
 
 Usage:
 ```sh
